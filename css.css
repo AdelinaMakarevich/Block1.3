@@ -959,5 +959,12 @@ button, a {
     }
 }
 @media (min-width: 1500px) {
-    body {margin-left: 10vw;}
+    .lid {
+      max-width: 1500px;
+    }
+    .key {
+      max-width: 1500px;
+      margin-left: auto;
+      margin-right: auto;
+    }
 }
